@@ -1,4 +1,4 @@
-# Pranay Rahul Ganji - Projects Portifolio
+# Pranay Rahul Ganji - Projects Portfolio
 Dive into my diverse range of projects that demonstrate my expertise and creativity.
 
 ## Contents
