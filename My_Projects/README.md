@@ -12,12 +12,12 @@ At the core, my expertise lies in exploratory data analysis, data visualization,
 
 During my tenure at Amazon, I played a crucial role in data pipeline development, A-B testing, and predictive analysis for revenue channels. Additionally, my analytical insight was instrumental in supply chain analysis, where I devised key metrics to identify potential areas of improvement in inventory management.
 
-SKILLS
-Programming Languages: Python, R, SQL
-Data Science Libraries: Pandas, NumPy, Seaborn, plotly, Matplotlib, Scikit-learn
-Deep Learning Frameworks: PyTorch, Keras, TensorFlow
-Databases: MySQL, SQLite
-Version Control & Tools: GitHub / Git, Tableau, MS Excel
+SKILLS  
+Programming Languages: Python, R, SQL  
+Data Science Libraries: Pandas, NumPy, Seaborn, plotly, Matplotlib, Scikit-learn  
+Deep Learning Frameworks: PyTorch, Keras, TensorFlow  
+Databases: MySQL, SQLite  
+Version Control & Tools: GitHub / Git, Tableau, MS Excel  
 
 Open to collaborations, discussions, and opportunities that challenge the boundaries of data analytics, data science and machine learning. Feel free to connect!
 
