@@ -1,5 +1,5 @@
 # Pranay Rahul Ganji - Projects Portifolio
-Contains all the projects I've done.
+Dive into my diverse range of projects that demonstrate my expertise and creativity.
 
 ## Contents
     - Data Science / Machine Learning Projects
