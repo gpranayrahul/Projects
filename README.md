@@ -25,6 +25,6 @@ Open to collaborations, discussions, and opportunities that challenge the bounda
 
 | Contact Method        |                                            |
 | ----------------------| ------------------------------------------ |
-| Professional Email:   | gpranayrahul@gmail.com                   |
+| Professional Email:   | pranayrahul.ganji@gmail.com                   |
 | School Email:         | ganji.p@northeastern.edu             |
 | Linkedin:             | https://www.linkedin.com/in/pranayrahulganji/  |
