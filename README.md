@@ -6,20 +6,17 @@ Dive into my diverse range of projects that demonstrate my expertise and creativ
 
 ## Background
 
-A dedicated Data Science and ML enthusiast with 2+ years in data science and analytics, currently pursuing a Master’s in Data Analytics at Northeastern University, Boston. My academic pursuit is fortified by rich real-world experiences, most notably as a Data Science and Machine Learning Intern and a Data Analyst at Amazon.
+🚀 Data Science | Data Engineering | Analytics | Machine Learning
 
-At the core, my expertise lies in exploratory data analysis, data visualization, and implementing both supervised and unsupervised machine learning techniques. My work has exposed me to a plethora of tools, frameworks, and models – from PCA, t-SNE, and various regression models to deep learning tools like TensorFlow, Keras, and LSTMs. This diverse exposure has given me the capability to work on multifaceted projects across domains.
+With a Master’s in Data Analytics, I specialize in building scalable data pipelines, designing machine learning models, and extracting insights that drive business decisions. My experience spans data engineering, analytics, and predictive modeling, allowing me to work across diverse problem domains.
 
-During my tenure at Amazon, I played a crucial role in data pipeline development, A-B testing, and predictive analysis for revenue channels. Additionally, my analytical insight was instrumental in supply chain analysis, where I devised key metrics to identify potential areas of improvement in inventory management.
+🔹 Data Engineering – Built and optimized ETL pipelines, ensuring efficient data ingestion and transformation.
+🔹 Data Science & ML – Developed predictive models, applied statistical analysis, and implemented AI-driven solutions.
+🔹 Analytics & BI – Designed dashboards, automated reporting, and provided actionable insights for business strategy.
 
-SKILLS  
-Programming Languages: Python, R, SQL  
-Data Science Libraries: Pandas, NumPy, Seaborn, plotly, Matplotlib, Scikit-learn  
-Deep Learning Frameworks: PyTorch, Keras, TensorFlow  
-Databases: MySQL, SQLite  
-Version Control & Tools: GitHub / Git, Tableau, MS Excel  
+Proficient in Python, SQL, R, TensorFlow, PyTorch, Keras, and Tableau, I enjoy solving complex problems at the intersection of data, technology, and business.
 
-Open to collaborations, discussions, and opportunities that challenge the boundaries of data analytics, data science and machine learning. Feel free to connect!
+Currently seeking full-time roles in Data Science, Data Engineering, or Analytics. Open to discussions and collaborations—let’s connect!
 
 ## Contact me!
 
